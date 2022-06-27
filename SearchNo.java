@@ -20,10 +20,10 @@ class SearchNo
 	}
 	}
 	if(c==1)
-	System.out.print("\n\t\tNumber is prime number");
+	System.out.print("\n\t\tNumber found");
 	
 	else
-	System.out.print("\n\t\tNumber is not prime number");
+	System.out.print("\n\t\tNumber not found");
 	
 	}
 }
