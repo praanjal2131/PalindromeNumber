@@ -1,1 +1,1 @@
-# PalindromeNumber
+# Number_Series
