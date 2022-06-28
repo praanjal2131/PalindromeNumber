@@ -14,12 +14,13 @@ class Fibonacci_Series  //highest common factor
 	
 		while(i<=n)
 		{
+			System.out.print(c +" ");
 			c=a+b;
 			a=b;
 			b=c;	
 			i++;	
 		}
-			System.out.print(c +" ");
+			
 			
 	}
 }
